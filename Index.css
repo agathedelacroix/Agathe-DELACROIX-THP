@@ -1,0 +1,125 @@
+a
+{
+    color: #5F6368;
+    text-decoration: none;
+    font-family: Arial;
+}
+p
+{
+    color: #5F6368;
+    text-decoration: none;
+    font-family: Arial;
+}
+.haut
+{
+    display: flex;
+    justify-content: flex-end;
+}
+.spacehaut
+{
+    width: 15px;
+}
+.logogoogle
+{
+    text-align: center;
+}
+.lignemilieu
+{
+    display:flex;
+    justify-content: center;
+}
+.spacemilieu
+{
+    width: 10px;
+}
+.barrecentre
+{
+    display: flex;
+    justify-content: center;
+}
+
+.gris
+{
+    border-top: 8px #F4F4F4 solid;
+    border-right: 15px #F4F4F4 solid;
+    border-bottom: 8px #F4F4F4 solid;
+    border-left: 15px #F4F4F4 solid;
+    border-radius: 2px;
+    background: #F4F4F4;
+    color: #5F6368
+}
+.bleu
+{
+    border-top: 8px #4387FD solid;
+    border-right: 15px #4387FD solid;
+    border-bottom: 8px #4387FD solid;
+    border-left: 15px #4387FD solid;
+    border-radius: 2px;
+    background: #4387FD;
+    color: white;
+    font-weight: bold;
+}
+.spacebas
+{
+    width: 15px;
+}
+.lignebasG
+{
+    display: flex;
+    justify-content: flex-start;
+    border-top: 1px #E4E4E4 solid;
+    background: #F4F4F4;
+}
+.lignebasD
+{
+    display: flex;
+    justify-content: flex-end;
+    border-top: 1px #E4E4E4 solid;
+    background: #F4F4F4;
+}
+.couleurpolice
+{
+    color: #5F6368;
+}
+.descendre
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+} 
+.lignebascentre
+{
+    display: flex;
+    justify-content: center;
+    background: #F4F4F4;
+    border-top: 1px #E4E4E4 solid;
+    width: 30%;
+}   
+.joindrelignes
+{
+    display: flex;
+    justify-content: center;
+}
+.label 
+{
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input[type=search]
+{
+    width: 550px;
+    height: 45px;
+    border: 1px #E4E4E4 solid;
+    border-radius: 50px;
+}
+.policebas
+{
+    font-size: 15.8px;
+}
+.milieugoogle
+{
+    position: absolute;
+    top: 25%;
+} 
